@@ -1,0 +1,67 @@
+[
+  {
+    "id": "manufacturing",
+    "name": "Manufacturing",
+    "description": "Manufacturing Engineering",
+    "icon": "factory",
+    "progress": 68,
+    "required": true,
+    "color": "orange",
+    "skills": [
+      "manufacturing-basics",
+      "lean-manufacturing",
+      "production-planning"
+    ]
+  },
+  {
+    "id": "quality",
+    "name": "Quality",
+    "description": "Quality Engineering",
+    "icon": "shield",
+    "progress": 42,
+    "required": true,
+    "color": "green",
+    "skills": [
+      "quality-basics",
+      "six-sigma"
+    ]
+  },
+  {
+    "id": "programming",
+    "name": "Programming",
+    "description": "Software & Automation",
+    "icon": "cpu",
+    "progress": 55,
+    "required": true,
+    "color": "blue",
+    "skills": [
+      "python-basics"
+    ]
+  },
+  {
+    "id": "automation",
+    "name": "Automation",
+    "description": "Industrial Automation",
+    "icon": "bot",
+    "progress": 18,
+    "required": true,
+    "color": "pink",
+    "skills": [
+      "plc",
+      "robotics"
+    ]
+  },
+  {
+    "id": "artificial-intelligence",
+    "name": "Artificial Intelligence",
+    "description": "AI for Manufacturing",
+    "icon": "brain",
+    "progress": 8,
+    "required": false,
+    "color": "violet",
+    "skills": [
+      "ai-manufacturing",
+      "computer-vision"
+    ]
+  }
+]

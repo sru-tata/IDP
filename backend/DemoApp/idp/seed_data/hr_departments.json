@@ -1,0 +1,65 @@
+[
+  {
+    "id": "assembly",
+    "name": "Assembly",
+    "icon": "shield-check",
+    "headcount": 186,
+    "readiness": 84,
+    "qoqChange": 8,
+    "trend": "up"
+  },
+  {
+    "id": "quality",
+    "name": "Quality",
+    "icon": "shield-check",
+    "headcount": 142,
+    "readiness": 79,
+    "qoqChange": 5,
+    "trend": "up"
+  },
+  {
+    "id": "manufacturing",
+    "name": "Manufacturing",
+    "icon": "factory",
+    "headcount": 261,
+    "readiness": 71,
+    "qoqChange": 9,
+    "trend": "up"
+  },
+  {
+    "id": "maintenance",
+    "name": "Maintenance",
+    "icon": "bot",
+    "headcount": 118,
+    "readiness": 68,
+    "qoqChange": 6,
+    "trend": "up"
+  },
+  {
+    "id": "supply-chain",
+    "name": "Supply Chain",
+    "icon": "workflow",
+    "headcount": 97,
+    "readiness": 63,
+    "qoqChange": 4,
+    "trend": "up"
+  },
+  {
+    "id": "engineering",
+    "name": "Engineering",
+    "icon": "cpu",
+    "headcount": 134,
+    "readiness": 58,
+    "qoqChange": -2,
+    "trend": "down"
+  },
+  {
+    "id": "logistics",
+    "name": "Logistics",
+    "icon": "workflow",
+    "headcount": 89,
+    "readiness": 52,
+    "qoqChange": -1,
+    "trend": "down"
+  }
+]

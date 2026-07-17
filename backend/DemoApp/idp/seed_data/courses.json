@@ -1,0 +1,858 @@
+[
+  {
+    "id": 1,
+    "videoId": "TkMbhhfpras",
+    "title": "Lean Manufacturing Fundamentals",
+    "category": "Manufacturing",
+    "difficulty": "Beginner",
+    "xp": 265,
+    "progress": 100,
+    "started": true,
+    "recommended": false,
+    "completedAt": "2026-06-20",
+    "learners": 842,
+    "rating": 4.8,
+    "skills": [
+      "Lean Thinking",
+      "Waste Elimination",
+      "Standard Work"
+    ],
+    "createdAt": 20260201
+  },
+  {
+    "id": 2,
+    "videoId": "oarLDeAFSj4",
+    "title": "The 2-Second Lean Improvement Habit",
+    "category": "Manufacturing",
+    "difficulty": "Beginner",
+    "xp": 220,
+    "progress": 100,
+    "started": true,
+    "recommended": false,
+    "completedAt": "2026-06-05",
+    "learners": 611,
+    "rating": 4.7,
+    "skills": [
+      "Lean Culture",
+      "Daily Kaizen"
+    ],
+    "createdAt": 20260204
+  },
+  {
+    "id": 3,
+    "videoId": "UMFNys3Yavo",
+    "title": "Sustaining Lean Improvements on the Floor",
+    "category": "Manufacturing",
+    "difficulty": "Intermediate",
+    "xp": 240,
+    "progress": 100,
+    "started": true,
+    "recommended": false,
+    "completedAt": "2026-06-12",
+    "learners": 405,
+    "rating": 4.7,
+    "skills": [
+      "Continuous Improvement",
+      "Productivity"
+    ],
+    "createdAt": 20260208
+  },
+  {
+    "id": 4,
+    "videoId": "DJfEWK7GjCo",
+    "title": "Lean Manufacturing Management Explained",
+    "category": "Manufacturing",
+    "difficulty": "Beginner",
+    "xp": 120,
+    "progress": 65,
+    "started": true,
+    "recommended": false,
+    "completedAt": null,
+    "learners": 298,
+    "rating": 4.5,
+    "skills": [
+      "Lean Management"
+    ],
+    "createdAt": 20260305
+  },
+  {
+    "id": 5,
+    "videoId": "wfsRAZUnonI",
+    "title": "The Four Principles of Lean Management",
+    "category": "Manufacturing",
+    "difficulty": "Beginner",
+    "xp": 90,
+    "progress": 0,
+    "started": false,
+    "recommended": true,
+    "completedAt": null,
+    "learners": 733,
+    "rating": 4.6,
+    "skills": [
+      "Lean Principles",
+      "Customer Value"
+    ],
+    "createdAt": 20260410
+  },
+  {
+    "id": 6,
+    "videoId": "ERYzufU1bQQ",
+    "title": "Kaizen Culture on the Shop Floor",
+    "category": "Manufacturing",
+    "difficulty": "Beginner",
+    "xp": 180,
+    "progress": 0,
+    "started": false,
+    "recommended": false,
+    "completedAt": null,
+    "learners": 189,
+    "rating": 4.6,
+    "skills": [
+      "Kaizen",
+      "Culture Change"
+    ],
+    "createdAt": 20260502
+  },
+  {
+    "id": 7,
+    "videoId": "VnK2XHvMF1Q",
+    "title": "What Is Kaizen? Continuous Improvement 101",
+    "category": "Manufacturing",
+    "difficulty": "Beginner",
+    "xp": 150,
+    "progress": 0,
+    "started": false,
+    "recommended": false,
+    "completedAt": null,
+    "learners": 322,
+    "rating": 4.5,
+    "skills": [
+      "Kaizen",
+      "Process Thinking"
+    ],
+    "createdAt": 20260514
+  },
+  {
+    "id": 8,
+    "videoId": "McqDT1DMlh8",
+    "title": "Smart Manufacturing & Robotics Overview",
+    "category": "Manufacturing",
+    "difficulty": "Intermediate",
+    "xp": 260,
+    "progress": 0,
+    "started": false,
+    "recommended": false,
+    "completedAt": null,
+    "learners": 214,
+    "rating": 4.4,
+    "skills": [
+      "Robotics",
+      "Smart Factories"
+    ],
+    "createdAt": 20260601
+  },
+  {
+    "id": 9,
+    "videoId": "KfFez57ay6E",
+    "title": "Six Sigma Green Belt",
+    "category": "Quality",
+    "difficulty": "Advanced",
+    "xp": 900,
+    "progress": 100,
+    "started": true,
+    "recommended": false,
+    "completedAt": "2026-05-18",
+    "learners": 1180,
+    "rating": 4.9,
+    "skills": [
+      "DMAIC",
+      "Statistical Tools",
+      "Process Capability"
+    ],
+    "createdAt": 20260112
+  },
+  {
+    "id": 10,
+    "videoId": "4oJhV0al6HQ",
+    "title": "Quality Management Fundamentals",
+    "category": "Quality",
+    "difficulty": "Beginner",
+    "xp": 350,
+    "progress": 100,
+    "started": true,
+    "recommended": false,
+    "completedAt": "2026-04-28",
+    "learners": 654,
+    "rating": 4.7,
+    "skills": [
+      "Quality Basics",
+      "Belts Overview"
+    ],
+    "createdAt": 20260115
+  },
+  {
+    "id": 11,
+    "videoId": "imHharbZsQ4",
+    "title": "Six Sigma: Tools & Techniques",
+    "category": "Quality",
+    "difficulty": "Intermediate",
+    "xp": 620,
+    "progress": 100,
+    "started": true,
+    "recommended": false,
+    "completedAt": "2026-06-02",
+    "learners": 512,
+    "rating": 4.6,
+    "skills": [
+      "Process Improvement",
+      "Root Cause"
+    ],
+    "createdAt": 20260118
+  },
+  {
+    "id": 12,
+    "videoId": "gYp04B3r0Pg",
+    "title": "Continuous Improvement & Kaizen for Quality Teams",
+    "category": "Quality",
+    "difficulty": "Beginner",
+    "xp": 140,
+    "progress": 0,
+    "started": false,
+    "recommended": true,
+    "completedAt": null,
+    "learners": 176,
+    "rating": 4.5,
+    "skills": [
+      "Kaizen",
+      "Quality Culture"
+    ],
+    "createdAt": 20260320
+  },
+  {
+    "id": 13,
+    "videoId": "MmsIcO_0_dA",
+    "title": "Kaizen Methodology for Process Improvement",
+    "category": "Quality",
+    "difficulty": "Beginner",
+    "xp": 160,
+    "progress": 0,
+    "started": false,
+    "recommended": true,
+    "completedAt": null,
+    "learners": 233,
+    "rating": 4.6,
+    "skills": [
+      "Kaizen",
+      "Process Mapping"
+    ],
+    "createdAt": 20260322
+  },
+  {
+    "id": 14,
+    "videoId": "SxeSdzJOmsk",
+    "title": "Kaizen the Toyota Way",
+    "category": "Quality",
+    "difficulty": "Intermediate",
+    "xp": 210,
+    "progress": 0,
+    "started": false,
+    "recommended": false,
+    "completedAt": null,
+    "learners": 145,
+    "rating": 4.4,
+    "skills": [
+      "Kaizen",
+      "Toyota Production System"
+    ],
+    "createdAt": 20260406
+  },
+  {
+    "id": 15,
+    "videoId": "o91quzxqOxg",
+    "title": "Kaizen Techniques That Actually Stick",
+    "category": "Quality",
+    "difficulty": "Beginner",
+    "xp": 130,
+    "progress": 0,
+    "started": false,
+    "recommended": false,
+    "completedAt": null,
+    "learners": 98,
+    "rating": 4.3,
+    "skills": [
+      "Kaizen",
+      "Implementation"
+    ],
+    "createdAt": 20260419
+  },
+  {
+    "id": 16,
+    "videoId": "OowQcPa9S1w",
+    "title": "Running a Successful Kaizen Event",
+    "category": "Quality",
+    "difficulty": "Intermediate",
+    "xp": 175,
+    "progress": 0,
+    "started": false,
+    "recommended": false,
+    "completedAt": null,
+    "learners": 121,
+    "rating": 4.5,
+    "skills": [
+      "Kaizen Events",
+      "Facilitation"
+    ],
+    "createdAt": 20260427
+  },
+  {
+    "id": 17,
+    "videoId": "rfscVS0vtbw",
+    "title": "Python for Engineers",
+    "category": "Programming",
+    "difficulty": "Beginner",
+    "xp": 505,
+    "progress": 100,
+    "started": true,
+    "recommended": false,
+    "completedAt": "2026-04-10",
+    "learners": 1420,
+    "rating": 4.9,
+    "skills": [
+      "Python",
+      "Automation Scripting"
+    ],
+    "createdAt": 20260103
+  },
+  {
+    "id": 18,
+    "videoId": "HXV3zeQKqGY",
+    "title": "SQL & Databases for Engineers",
+    "category": "Programming",
+    "difficulty": "Beginner",
+    "xp": 470,
+    "progress": 100,
+    "started": true,
+    "recommended": false,
+    "completedAt": "2026-05-02",
+    "learners": 890,
+    "rating": 4.8,
+    "skills": [
+      "SQL",
+      "Databases"
+    ],
+    "createdAt": 20260109
+  },
+  {
+    "id": 19,
+    "videoId": "qrbf9DtR3_c",
+    "title": "Excel for Manufacturing Data Analysis",
+    "category": "Programming",
+    "difficulty": "Intermediate",
+    "xp": 430,
+    "progress": 100,
+    "started": true,
+    "recommended": false,
+    "completedAt": "2026-05-25",
+    "learners": 703,
+    "rating": 4.6,
+    "skills": [
+      "Excel",
+      "Pivot Tables",
+      "Data Analysis"
+    ],
+    "createdAt": 20260214
+  },
+  {
+    "id": 20,
+    "videoId": "SA_SDo-cqpg",
+    "title": "Excel Projects for Plant Analysts",
+    "category": "Programming",
+    "difficulty": "Beginner",
+    "xp": 280,
+    "progress": 75,
+    "started": true,
+    "recommended": false,
+    "completedAt": null,
+    "learners": 344,
+    "rating": 4.5,
+    "skills": [
+      "Excel",
+      "Reporting"
+    ],
+    "createdAt": 20260318
+  },
+  {
+    "id": 21,
+    "videoId": "7QNgqq154gE",
+    "title": "Power Query to Dashboard in 4 Hours",
+    "category": "Programming",
+    "difficulty": "Intermediate",
+    "xp": 400,
+    "progress": 0,
+    "started": false,
+    "recommended": true,
+    "completedAt": null,
+    "learners": 256,
+    "rating": 4.6,
+    "skills": [
+      "Power Query",
+      "Dashboards"
+    ],
+    "createdAt": 20260409
+  },
+  {
+    "id": 22,
+    "videoId": "pCJ15nGFgVg",
+    "title": "Excel Analytics for Operations",
+    "category": "Programming",
+    "difficulty": "Beginner",
+    "xp": 260,
+    "progress": 0,
+    "started": false,
+    "recommended": false,
+    "completedAt": null,
+    "learners": 187,
+    "rating": 4.4,
+    "skills": [
+      "Excel",
+      "Operations Analytics"
+    ],
+    "createdAt": 20260423
+  },
+  {
+    "id": 23,
+    "videoId": "XbyiTh-6k9Q",
+    "title": "Advanced Excel for Data Analysts",
+    "category": "Programming",
+    "difficulty": "Advanced",
+    "xp": 560,
+    "progress": 0,
+    "started": false,
+    "recommended": false,
+    "completedAt": null,
+    "learners": 162,
+    "rating": 4.5,
+    "skills": [
+      "Advanced Formulas",
+      "Automation"
+    ],
+    "createdAt": 20260502
+  },
+  {
+    "id": 24,
+    "videoId": "_oL30hxtwPY",
+    "title": "Industrial Robotics: Arm Design & Programming",
+    "category": "Automation",
+    "difficulty": "Beginner",
+    "xp": 330,
+    "progress": 100,
+    "started": true,
+    "recommended": false,
+    "completedAt": "2026-03-15",
+    "learners": 402,
+    "rating": 4.5,
+    "skills": [
+      "Robot Arms",
+      "Robot Programming"
+    ],
+    "createdAt": 20260130
+  },
+  {
+    "id": 25,
+    "videoId": "iqBUpA7fg5E",
+    "title": "FANUC Robot Programming",
+    "category": "Automation",
+    "difficulty": "Intermediate",
+    "xp": 520,
+    "progress": 20,
+    "started": true,
+    "recommended": false,
+    "completedAt": null,
+    "learners": 361,
+    "rating": 4.7,
+    "skills": [
+      "FANUC",
+      "Industrial Robots"
+    ],
+    "createdAt": 20260311
+  },
+  {
+    "id": 26,
+    "videoId": "ZBD4jOAuax8",
+    "title": "Getting Started with Industrial Robotics",
+    "category": "Automation",
+    "difficulty": "Beginner",
+    "xp": 300,
+    "progress": 0,
+    "started": false,
+    "recommended": true,
+    "completedAt": null,
+    "learners": 214,
+    "rating": 4.4,
+    "skills": [
+      "Robotics Deployment"
+    ],
+    "createdAt": 20260405
+  },
+  {
+    "id": 27,
+    "videoId": "3hreEJzdkYA",
+    "title": "Programming Multi-Axis Robotic Systems",
+    "category": "Automation",
+    "difficulty": "Intermediate",
+    "xp": 460,
+    "progress": 0,
+    "started": false,
+    "recommended": true,
+    "completedAt": null,
+    "learners": 178,
+    "rating": 4.5,
+    "skills": [
+      "Robotic Systems",
+      "Coordination"
+    ],
+    "createdAt": 20260417
+  },
+  {
+    "id": 28,
+    "videoId": "ksQrkag-nHI",
+    "title": "Siemens PLC Programming for Beginners",
+    "category": "Automation",
+    "difficulty": "Beginner",
+    "xp": 640,
+    "progress": 0,
+    "started": false,
+    "recommended": true,
+    "completedAt": null,
+    "learners": 890,
+    "rating": 4.8,
+    "skills": [
+      "PLC",
+      "Siemens",
+      "Ladder Logic"
+    ],
+    "createdAt": 20260422
+  },
+  {
+    "id": 29,
+    "videoId": "y2eWdLk0-Ho",
+    "title": "PLC Programming: Getting Started",
+    "category": "Automation",
+    "difficulty": "Beginner",
+    "xp": 210,
+    "progress": 0,
+    "started": false,
+    "recommended": false,
+    "completedAt": null,
+    "learners": 655,
+    "rating": 4.7,
+    "skills": [
+      "PLC Basics"
+    ],
+    "createdAt": 20260501
+  },
+  {
+    "id": 30,
+    "videoId": "xBNrifixgjc",
+    "title": "PLC Programming Demystified",
+    "category": "Automation",
+    "difficulty": "Beginner",
+    "xp": 250,
+    "progress": 0,
+    "started": false,
+    "recommended": false,
+    "completedAt": null,
+    "learners": 143,
+    "rating": 4.5,
+    "skills": [
+      "PLC",
+      "Ladder Logic"
+    ],
+    "createdAt": 20260511
+  },
+  {
+    "id": 31,
+    "videoId": "c4VrA0kx5zc",
+    "title": "PLC Basics: Inputs, Outputs & Logic",
+    "category": "Automation",
+    "difficulty": "Beginner",
+    "xp": 190,
+    "progress": 0,
+    "started": false,
+    "recommended": false,
+    "completedAt": null,
+    "learners": 165,
+    "rating": 4.4,
+    "skills": [
+      "PLC Fundamentals"
+    ],
+    "createdAt": 20260519
+  },
+  {
+    "id": 32,
+    "videoId": "oXlwWbU8l2o",
+    "title": "Computer Vision with OpenCV & Python",
+    "category": "Artificial Intelligence",
+    "difficulty": "Intermediate",
+    "xp": 700,
+    "progress": 10,
+    "started": true,
+    "recommended": false,
+    "completedAt": null,
+    "learners": 512,
+    "rating": 4.8,
+    "skills": [
+      "Computer Vision",
+      "OpenCV",
+      "Python"
+    ],
+    "createdAt": 20260401
+  },
+  {
+    "id": 33,
+    "videoId": "hhGPiDrUe1c",
+    "title": "AI & Machine Learning Foundations",
+    "category": "Artificial Intelligence",
+    "difficulty": "Beginner",
+    "xp": 780,
+    "progress": 25,
+    "started": true,
+    "recommended": false,
+    "completedAt": null,
+    "learners": 388,
+    "rating": 4.6,
+    "skills": [
+      "AI Fundamentals",
+      "Machine Learning"
+    ],
+    "createdAt": 20260408
+  },
+  {
+    "id": 34,
+    "videoId": "MsVujBISof8",
+    "title": "AI & Machine Learning for Engineers",
+    "category": "Artificial Intelligence",
+    "difficulty": "Beginner",
+    "xp": 745,
+    "progress": 0,
+    "started": false,
+    "recommended": true,
+    "completedAt": null,
+    "learners": 265,
+    "rating": 4.6,
+    "skills": [
+      "Neural Networks",
+      "Applied AI"
+    ],
+    "createdAt": 20260416
+  },
+  {
+    "id": 35,
+    "videoId": "N8svLoC2eNA",
+    "title": "Applied Machine Learning Workflows",
+    "category": "Artificial Intelligence",
+    "difficulty": "Intermediate",
+    "xp": 810,
+    "progress": 0,
+    "started": false,
+    "recommended": true,
+    "completedAt": null,
+    "learners": 201,
+    "rating": 4.5,
+    "skills": [
+      "ML Workflows",
+      "Model Evaluation"
+    ],
+    "createdAt": 20260420
+  },
+  {
+    "id": 36,
+    "videoId": "jOIKxfHJuNs",
+    "title": "AI & Machine Learning Certification Prep",
+    "category": "Artificial Intelligence",
+    "difficulty": "Advanced",
+    "xp": 980,
+    "progress": 0,
+    "started": false,
+    "recommended": true,
+    "completedAt": null,
+    "learners": 97,
+    "rating": 4.4,
+    "skills": [
+      "Statistics",
+      "Deployment"
+    ],
+    "createdAt": 20260428
+  },
+  {
+    "id": 37,
+    "videoId": "6WmtIaIX-bQ",
+    "title": "Advanced Artificial Intelligence",
+    "category": "Artificial Intelligence",
+    "difficulty": "Advanced",
+    "xp": 940,
+    "progress": 0,
+    "started": false,
+    "recommended": true,
+    "completedAt": null,
+    "learners": 342,
+    "rating": 4.6,
+    "skills": [
+      "Search Algorithms",
+      "Expert Systems"
+    ],
+    "createdAt": 20260505
+  },
+  {
+    "id": 38,
+    "videoId": "FkqINm-l3q0",
+    "title": "Generative AI for Manufacturing",
+    "category": "Artificial Intelligence",
+    "difficulty": "Advanced",
+    "xp": 860,
+    "progress": 0,
+    "started": false,
+    "recommended": false,
+    "completedAt": null,
+    "learners": 156,
+    "rating": 4.5,
+    "skills": [
+      "Generative AI",
+      "Applied Tooling"
+    ],
+    "createdAt": 20260513
+  },
+  {
+    "id": 39,
+    "videoId": "rUOlX3uuUr4",
+    "title": "Generative Digital Twins & the Future of Industry 4.0",
+    "category": "Artificial Intelligence",
+    "difficulty": "Advanced",
+    "xp": 410,
+    "progress": 0,
+    "started": false,
+    "recommended": false,
+    "completedAt": null,
+    "learners": 88,
+    "rating": 4.5,
+    "skills": [
+      "Digital Twin",
+      "Generative AI"
+    ],
+    "createdAt": 20260528
+  },
+  {
+    "id": 40,
+    "videoId": "opcrVfHb3A0",
+    "title": "Getting Started with Industry 4.0",
+    "category": "Industry 4.0",
+    "difficulty": "Beginner",
+    "xp": 330,
+    "progress": 100,
+    "started": true,
+    "recommended": false,
+    "completedAt": "2026-02-20",
+    "learners": 245,
+    "rating": 4.5,
+    "skills": [
+      "Industry 4.0",
+      "Digital Twin"
+    ],
+    "createdAt": 20260220
+  },
+  {
+    "id": 41,
+    "videoId": "eZDkSNHaWh8",
+    "title": "Digital Transformation Project Management",
+    "category": "Industry 4.0",
+    "difficulty": "Beginner",
+    "xp": 620,
+    "progress": 100,
+    "started": true,
+    "recommended": false,
+    "completedAt": "2026-03-30",
+    "learners": 578,
+    "rating": 4.7,
+    "skills": [
+      "Project Management",
+      "Digital Transformation"
+    ],
+    "createdAt": 20260225
+  },
+  {
+    "id": 42,
+    "videoId": "-84E_-aTpck",
+    "title": "Leading Digital Transformation Initiatives",
+    "category": "Industry 4.0",
+    "difficulty": "Intermediate",
+    "xp": 640,
+    "progress": 55,
+    "started": true,
+    "recommended": false,
+    "completedAt": null,
+    "learners": 401,
+    "rating": 4.6,
+    "skills": [
+      "Agile Delivery",
+      "Stakeholder Management"
+    ],
+    "createdAt": 20260318
+  },
+  {
+    "id": 43,
+    "videoId": "N8Bvmx3Sr28",
+    "title": "Preparing for a Connected Production Line",
+    "category": "Industry 4.0",
+    "difficulty": "Beginner",
+    "xp": 150,
+    "progress": 0,
+    "started": false,
+    "recommended": true,
+    "completedAt": null,
+    "learners": 132,
+    "rating": 4.3,
+    "skills": [
+      "IIoT Readiness",
+      "PLC Planning"
+    ],
+    "createdAt": 20260406
+  },
+  {
+    "id": 44,
+    "videoId": "KRJ6Qz3hwZw",
+    "title": "Programming a Connected Automation Cell",
+    "category": "Industry 4.0",
+    "difficulty": "Intermediate",
+    "xp": 540,
+    "progress": 0,
+    "started": false,
+    "recommended": false,
+    "completedAt": null,
+    "learners": 289,
+    "rating": 4.6,
+    "skills": [
+      "Allen Bradley",
+      "Cell Integration"
+    ],
+    "createdAt": 20260421
+  },
+  {
+    "id": 45,
+    "videoId": "1WQ70KJu6EY",
+    "title": "Ladder Logic for Connected Factories",
+    "category": "Industry 4.0",
+    "difficulty": "Beginner",
+    "xp": 190,
+    "progress": 0,
+    "started": false,
+    "recommended": false,
+    "completedAt": null,
+    "learners": 176,
+    "rating": 4.4,
+    "skills": [
+      "Ladder Logic",
+      "Controls"
+    ],
+    "createdAt": 20260430
+  }
+]

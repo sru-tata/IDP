@@ -1,0 +1,694 @@
+{
+  "senior-manufacturing-engineer": {
+    "id": "senior-manufacturing-engineer",
+    "title": "Senior Manufacturing Engineer",
+    "estimatedMonths": 5,
+    "totalCourses": 10,
+    "competencies": [
+      "Manufacturing",
+      "Quality",
+      "Programming",
+      "Automation",
+      "Artificial Intelligence"
+    ],
+    "nodes": [
+      {
+        "id": "manufacturing-basics",
+        "title": "Manufacturing Basics",
+        "level": "Beginner",
+        "competency": "Manufacturing",
+        "videoId": "DJfEWK7GjCo",
+        "xp": 300,
+        "completed": true,
+        "unlocked": true,
+        "prerequisites": []
+      },
+      {
+        "id": "quality-basics",
+        "title": "Quality Fundamentals",
+        "level": "Beginner",
+        "competency": "Quality",
+        "videoId": "4oJhV0al6HQ",
+        "xp": 350,
+        "completed": false,
+        "unlocked": true,
+        "prerequisites": []
+      },
+      {
+        "id": "python-engineers",
+        "title": "Python For Engineers",
+        "level": "Beginner",
+        "competency": "Programming",
+        "videoId": "rfscVS0vtbw",
+        "xp": 400,
+        "completed": false,
+        "unlocked": true,
+        "prerequisites": []
+      },
+      {
+        "id": "lean",
+        "title": "Lean Manufacturing",
+        "level": "Intermediate",
+        "competency": "Manufacturing",
+        "videoId": "TkMbhhfpras",
+        "xp": 550,
+        "completed": false,
+        "unlocked": false,
+        "prerequisites": [
+          "manufacturing-basics"
+        ]
+      },
+      {
+        "id": "six-sigma",
+        "title": "Six Sigma Green Belt",
+        "level": "Intermediate",
+        "competency": "Quality",
+        "videoId": "KfFez57ay6E",
+        "xp": 700,
+        "completed": false,
+        "unlocked": false,
+        "prerequisites": [
+          "quality-basics"
+        ]
+      },
+      {
+        "id": "plc",
+        "title": "PLC Programming",
+        "level": "Intermediate",
+        "competency": "Automation",
+        "videoId": "ksQrkag-nHI",
+        "xp": 650,
+        "completed": false,
+        "unlocked": false,
+        "prerequisites": [
+          "python-engineers"
+        ]
+      },
+      {
+        "id": "computer-vision",
+        "title": "Computer Vision",
+        "level": "Intermediate",
+        "competency": "Artificial Intelligence",
+        "videoId": "oXlwWbU8l2o",
+        "xp": 800,
+        "completed": false,
+        "unlocked": false,
+        "prerequisites": [
+          "python-engineers"
+        ]
+      },
+      {
+        "id": "smart-factory",
+        "title": "Smart Factory Systems",
+        "level": "Advanced",
+        "competency": "Manufacturing",
+        "videoId": "McqDT1DMlh8",
+        "xp": 900,
+        "completed": false,
+        "unlocked": false,
+        "prerequisites": [
+          "lean",
+          "plc"
+        ]
+      },
+      {
+        "id": "advanced-quality",
+        "title": "Advanced Quality Systems",
+        "level": "Advanced",
+        "competency": "Quality",
+        "videoId": "imHharbZsQ4",
+        "xp": 850,
+        "completed": false,
+        "unlocked": false,
+        "prerequisites": [
+          "six-sigma"
+        ]
+      },
+      {
+        "id": "ai-manufacturing",
+        "title": "AI For Manufacturing",
+        "level": "Advanced",
+        "competency": "Artificial Intelligence",
+        "videoId": "FkqINm-l3q0",
+        "xp": 1100,
+        "completed": false,
+        "unlocked": false,
+        "prerequisites": [
+          "computer-vision",
+          "smart-factory"
+        ]
+      }
+    ]
+  },
+  "production-manager": {
+    "id": "production-manager",
+    "title": "Production Manager",
+    "estimatedMonths": 9,
+    "totalCourses": 10,
+    "competencies": [
+      "Manufacturing",
+      "Quality",
+      "Programming",
+      "Automation"
+    ],
+    "nodes": [
+      {
+        "id": "production-planning",
+        "title": "Production Planning Essentials",
+        "level": "Beginner",
+        "competency": "Manufacturing",
+        "videoId": "DJfEWK7GjCo",
+        "xp": 300,
+        "completed": true,
+        "unlocked": true,
+        "prerequisites": []
+      },
+      {
+        "id": "quality-fundamentals",
+        "title": "Quality Fundamentals",
+        "level": "Beginner",
+        "competency": "Quality",
+        "videoId": "4oJhV0al6HQ",
+        "xp": 320,
+        "completed": false,
+        "unlocked": true,
+        "prerequisites": []
+      },
+      {
+        "id": "excel-for-managers",
+        "title": "Excel for Production Managers",
+        "level": "Beginner",
+        "competency": "Programming",
+        "videoId": "qrbf9DtR3_c",
+        "xp": 350,
+        "completed": false,
+        "unlocked": true,
+        "prerequisites": []
+      },
+      {
+        "id": "lean-operations",
+        "title": "Lean Operations Management",
+        "level": "Intermediate",
+        "competency": "Manufacturing",
+        "videoId": "TkMbhhfpras",
+        "xp": 550,
+        "completed": false,
+        "unlocked": false,
+        "prerequisites": [
+          "production-planning"
+        ]
+      },
+      {
+        "id": "six-sigma-for-managers",
+        "title": "Six Sigma for Managers",
+        "level": "Intermediate",
+        "competency": "Quality",
+        "videoId": "imHharbZsQ4",
+        "xp": 620,
+        "completed": false,
+        "unlocked": false,
+        "prerequisites": [
+          "quality-fundamentals"
+        ]
+      },
+      {
+        "id": "automation-oversight",
+        "title": "Automation Oversight",
+        "level": "Intermediate",
+        "competency": "Automation",
+        "videoId": "ZBD4jOAuax8",
+        "xp": 500,
+        "completed": false,
+        "unlocked": false,
+        "prerequisites": [
+          "excel-for-managers"
+        ]
+      },
+      {
+        "id": "kaizen-facilitation",
+        "title": "Kaizen Event Facilitation",
+        "level": "Intermediate",
+        "competency": "Quality",
+        "videoId": "OowQcPa9S1w",
+        "xp": 400,
+        "completed": false,
+        "unlocked": false,
+        "prerequisites": [
+          "quality-fundamentals"
+        ]
+      },
+      {
+        "id": "project-management-for-plants",
+        "title": "Project Management for Plants",
+        "level": "Advanced",
+        "competency": "Manufacturing",
+        "videoId": "eZDkSNHaWh8",
+        "xp": 750,
+        "completed": false,
+        "unlocked": false,
+        "prerequisites": [
+          "lean-operations"
+        ]
+      },
+      {
+        "id": "digital-transformation-leadership",
+        "title": "Leading Digital Transformation",
+        "level": "Advanced",
+        "competency": "Manufacturing",
+        "videoId": "-84E_-aTpck",
+        "xp": 800,
+        "completed": false,
+        "unlocked": false,
+        "prerequisites": [
+          "automation-oversight",
+          "project-management-for-plants"
+        ]
+      },
+      {
+        "id": "advanced-production-systems",
+        "title": "Advanced Production Systems",
+        "level": "Advanced",
+        "competency": "Manufacturing",
+        "videoId": "McqDT1DMlh8",
+        "xp": 900,
+        "completed": false,
+        "unlocked": false,
+        "prerequisites": [
+          "six-sigma-for-managers",
+          "kaizen-facilitation"
+        ]
+      }
+    ]
+  },
+  "plant-head": {
+    "id": "plant-head",
+    "title": "Plant Head",
+    "estimatedMonths": 24,
+    "totalCourses": 11,
+    "competencies": [
+      "Manufacturing",
+      "Quality",
+      "Automation",
+      "Artificial Intelligence",
+      "Programming"
+    ],
+    "nodes": [
+      {
+        "id": "manufacturing-leadership-basics",
+        "title": "Manufacturing Leadership Basics",
+        "level": "Beginner",
+        "competency": "Manufacturing",
+        "videoId": "DJfEWK7GjCo",
+        "xp": 300,
+        "completed": true,
+        "unlocked": true,
+        "prerequisites": []
+      },
+      {
+        "id": "quality-systems-overview",
+        "title": "Quality Systems Overview",
+        "level": "Beginner",
+        "competency": "Quality",
+        "videoId": "4oJhV0al6HQ",
+        "xp": 320,
+        "completed": false,
+        "unlocked": true,
+        "prerequisites": []
+      },
+      {
+        "id": "financial-and-project-literacy",
+        "title": "Financial & Project Literacy",
+        "level": "Beginner",
+        "competency": "Programming",
+        "videoId": "eZDkSNHaWh8",
+        "xp": 400,
+        "completed": false,
+        "unlocked": true,
+        "prerequisites": []
+      },
+      {
+        "id": "lean-transformation",
+        "title": "Lean Transformation",
+        "level": "Intermediate",
+        "competency": "Manufacturing",
+        "videoId": "oarLDeAFSj4",
+        "xp": 550,
+        "completed": false,
+        "unlocked": false,
+        "prerequisites": [
+          "manufacturing-leadership-basics"
+        ]
+      },
+      {
+        "id": "six-sigma-black-belt-concepts",
+        "title": "Six Sigma Black Belt Concepts",
+        "level": "Intermediate",
+        "competency": "Quality",
+        "videoId": "KfFez57ay6E",
+        "xp": 750,
+        "completed": false,
+        "unlocked": false,
+        "prerequisites": [
+          "quality-systems-overview"
+        ]
+      },
+      {
+        "id": "industry-4-foundations",
+        "title": "Industry 4.0 Foundations",
+        "level": "Intermediate",
+        "competency": "Manufacturing",
+        "videoId": "opcrVfHb3A0",
+        "xp": 500,
+        "completed": false,
+        "unlocked": false,
+        "prerequisites": [
+          "manufacturing-leadership-basics"
+        ]
+      },
+      {
+        "id": "leading-digital-transformation",
+        "title": "Leading Digital Transformation",
+        "level": "Advanced",
+        "competency": "Manufacturing",
+        "videoId": "-84E_-aTpck",
+        "xp": 800,
+        "completed": false,
+        "unlocked": false,
+        "prerequisites": [
+          "industry-4-foundations",
+          "financial-and-project-literacy"
+        ]
+      },
+      {
+        "id": "plant-wide-automation-strategy",
+        "title": "Plant-Wide Automation Strategy",
+        "level": "Advanced",
+        "competency": "Automation",
+        "videoId": "iqBUpA7fg5E",
+        "xp": 750,
+        "completed": false,
+        "unlocked": false,
+        "prerequisites": [
+          "industry-4-foundations"
+        ]
+      },
+      {
+        "id": "ai-driven-operations",
+        "title": "AI-Driven Operations",
+        "level": "Advanced",
+        "competency": "Artificial Intelligence",
+        "videoId": "rUOlX3uuUr4",
+        "xp": 700,
+        "completed": false,
+        "unlocked": false,
+        "prerequisites": [
+          "leading-digital-transformation"
+        ]
+      },
+      {
+        "id": "enterprise-quality-excellence",
+        "title": "Enterprise Quality Excellence",
+        "level": "Advanced",
+        "competency": "Quality",
+        "videoId": "imHharbZsQ4",
+        "xp": 800,
+        "completed": false,
+        "unlocked": false,
+        "prerequisites": [
+          "six-sigma-black-belt-concepts"
+        ]
+      },
+      {
+        "id": "strategic-plant-leadership",
+        "title": "Strategic Plant Leadership",
+        "level": "Advanced",
+        "competency": "Manufacturing",
+        "videoId": "McqDT1DMlh8",
+        "xp": 1000,
+        "completed": false,
+        "unlocked": false,
+        "prerequisites": [
+          "plant-wide-automation-strategy",
+          "ai-driven-operations",
+          "enterprise-quality-excellence"
+        ]
+      }
+    ]
+  },
+  "quality-engineer": {
+    "id": "quality-engineer",
+    "title": "Quality Engineer",
+    "estimatedMonths": 6,
+    "totalCourses": 9,
+    "competencies": [
+      "Quality",
+      "Manufacturing",
+      "Programming",
+      "Automation",
+      "Artificial Intelligence"
+    ],
+    "nodes": [
+      {
+        "id": "quality-basics",
+        "title": "Quality Fundamentals",
+        "level": "Beginner",
+        "competency": "Quality",
+        "videoId": "4oJhV0al6HQ",
+        "xp": 300,
+        "completed": true,
+        "unlocked": true,
+        "prerequisites": []
+      },
+      {
+        "id": "statistics-for-quality",
+        "title": "Statistics & Data Analysis for Quality",
+        "level": "Beginner",
+        "competency": "Programming",
+        "videoId": "qrbf9DtR3_c",
+        "xp": 380,
+        "completed": false,
+        "unlocked": true,
+        "prerequisites": []
+      },
+      {
+        "id": "manufacturing-context",
+        "title": "Manufacturing Context for Quality",
+        "level": "Beginner",
+        "competency": "Manufacturing",
+        "videoId": "TkMbhhfpras",
+        "xp": 300,
+        "completed": false,
+        "unlocked": true,
+        "prerequisites": []
+      },
+      {
+        "id": "six-sigma-green-belt",
+        "title": "Six Sigma Green Belt",
+        "level": "Intermediate",
+        "competency": "Quality",
+        "videoId": "KfFez57ay6E",
+        "xp": 700,
+        "completed": false,
+        "unlocked": false,
+        "prerequisites": [
+          "quality-basics",
+          "statistics-for-quality"
+        ]
+      },
+      {
+        "id": "root-cause-kaizen",
+        "title": "Root Cause Analysis & Kaizen",
+        "level": "Intermediate",
+        "competency": "Quality",
+        "videoId": "MmsIcO_0_dA",
+        "xp": 420,
+        "completed": false,
+        "unlocked": false,
+        "prerequisites": [
+          "quality-basics"
+        ]
+      },
+      {
+        "id": "quality-automation-tools",
+        "title": "Automation Tools for Quality",
+        "level": "Intermediate",
+        "competency": "Automation",
+        "videoId": "xBNrifixgjc",
+        "xp": 450,
+        "completed": false,
+        "unlocked": false,
+        "prerequisites": [
+          "manufacturing-context"
+        ]
+      },
+      {
+        "id": "advanced-six-sigma-tools",
+        "title": "Advanced Six Sigma Tools",
+        "level": "Advanced",
+        "competency": "Quality",
+        "videoId": "imHharbZsQ4",
+        "xp": 750,
+        "completed": false,
+        "unlocked": false,
+        "prerequisites": [
+          "six-sigma-green-belt"
+        ]
+      },
+      {
+        "id": "computer-vision-for-inspection",
+        "title": "Computer Vision for Inspection",
+        "level": "Advanced",
+        "competency": "Artificial Intelligence",
+        "videoId": "oXlwWbU8l2o",
+        "xp": 800,
+        "completed": false,
+        "unlocked": false,
+        "prerequisites": [
+          "quality-automation-tools"
+        ]
+      },
+      {
+        "id": "quality-4-0",
+        "title": "Quality 4.0",
+        "level": "Advanced",
+        "competency": "Quality",
+        "videoId": "rUOlX3uuUr4",
+        "xp": 850,
+        "completed": false,
+        "unlocked": false,
+        "prerequisites": [
+          "advanced-six-sigma-tools",
+          "computer-vision-for-inspection"
+        ]
+      }
+    ]
+  },
+  "manufacturing-excellence-lead": {
+    "id": "manufacturing-excellence-lead",
+    "title": "Manufacturing Excellence Lead",
+    "estimatedMonths": 15,
+    "totalCourses": 9,
+    "competencies": [
+      "Manufacturing",
+      "Quality",
+      "Programming",
+      "Automation",
+      "Artificial Intelligence"
+    ],
+    "nodes": [
+      {
+        "id": "operational-excellence-basics",
+        "title": "Operational Excellence Basics",
+        "level": "Beginner",
+        "competency": "Manufacturing",
+        "videoId": "oarLDeAFSj4",
+        "xp": 300,
+        "completed": true,
+        "unlocked": true,
+        "prerequisites": []
+      },
+      {
+        "id": "quality-culture-foundations",
+        "title": "Quality Culture Foundations",
+        "level": "Beginner",
+        "competency": "Quality",
+        "videoId": "gYp04B3r0Pg",
+        "xp": 300,
+        "completed": false,
+        "unlocked": true,
+        "prerequisites": []
+      },
+      {
+        "id": "data-literacy",
+        "title": "Data Literacy for Excellence Teams",
+        "level": "Beginner",
+        "competency": "Programming",
+        "videoId": "qrbf9DtR3_c",
+        "xp": 380,
+        "completed": false,
+        "unlocked": true,
+        "prerequisites": []
+      },
+      {
+        "id": "lean-six-sigma-integration",
+        "title": "Lean Six Sigma Integration",
+        "level": "Intermediate",
+        "competency": "Quality",
+        "videoId": "KfFez57ay6E",
+        "xp": 700,
+        "completed": false,
+        "unlocked": false,
+        "prerequisites": [
+          "quality-culture-foundations"
+        ]
+      },
+      {
+        "id": "kaizen-leadership",
+        "title": "Kaizen Leadership",
+        "level": "Intermediate",
+        "competency": "Manufacturing",
+        "videoId": "SxeSdzJOmsk",
+        "xp": 500,
+        "completed": false,
+        "unlocked": false,
+        "prerequisites": [
+          "operational-excellence-basics"
+        ]
+      },
+      {
+        "id": "automation-for-excellence-teams",
+        "title": "Automation for Excellence Teams",
+        "level": "Intermediate",
+        "competency": "Automation",
+        "videoId": "ksQrkag-nHI",
+        "xp": 600,
+        "completed": false,
+        "unlocked": false,
+        "prerequisites": [
+          "data-literacy"
+        ]
+      },
+      {
+        "id": "digital-twin-for-excellence",
+        "title": "Digital Twin for Excellence",
+        "level": "Advanced",
+        "competency": "Artificial Intelligence",
+        "videoId": "opcrVfHb3A0",
+        "xp": 700,
+        "completed": false,
+        "unlocked": false,
+        "prerequisites": [
+          "automation-for-excellence-teams"
+        ]
+      },
+      {
+        "id": "enterprise-continuous-improvement",
+        "title": "Enterprise Continuous Improvement",
+        "level": "Advanced",
+        "competency": "Manufacturing",
+        "videoId": "UMFNys3Yavo",
+        "xp": 800,
+        "completed": false,
+        "unlocked": false,
+        "prerequisites": [
+          "kaizen-leadership",
+          "lean-six-sigma-integration"
+        ]
+      },
+      {
+        "id": "leading-excellence-transformation",
+        "title": "Leading Excellence Transformation",
+        "level": "Advanced",
+        "competency": "Manufacturing",
+        "videoId": "rUOlX3uuUr4",
+        "xp": 950,
+        "completed": false,
+        "unlocked": false,
+        "prerequisites": [
+          "enterprise-continuous-improvement",
+          "digital-twin-for-excellence"
+        ]
+      }
+    ]
+  }
+}

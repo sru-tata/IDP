@@ -1,0 +1,73 @@
+/*
+AI-Powered Insights - the platform surfaces significant trend changes and
+their likely contributing factors automatically (POC deck, "Learning
+Trends & AI Insights" slide).
+*/
+const hrInsights = [
+
+    {
+        id: "insight-1",
+        type: "positive",
+        title: "Data Analytics gap closing fastest",
+        detail: "The Data Analytics competency improved 15% faster than any other this quarter, largely driven by the new Excel and Power Query courses in the catalog.",
+        metric: "+15% QoQ",
+        relatedCompetency: "Data Analytics"
+    },
+
+    {
+        id: "insight-2",
+        type: "warning",
+        title: "Engineering readiness is declining",
+        detail: "Engineering is the only department trending down (-2% QoQ). Course starts dropped 18% after March, concentrated in the Automation and Programming categories.",
+        metric: "-2% QoQ",
+        relatedCompetency: "Engineering"
+    },
+
+    {
+        id: "insight-3",
+        type: "positive",
+        title: "Manufacturing team engagement up",
+        detail: "Employees on the Manufacturing Excellence Lead track are 12% more active than the org average, correlating with the highest department challenge participation.",
+        metric: "+12% engagement",
+        relatedCompetency: "Manufacturing"
+    },
+
+    {
+        id: "insight-4",
+        type: "watch",
+        title: "Leadership remains the widest gap",
+        detail: "Leadership has the largest current-vs-required gap (1.4) of any competency. Employees eligible for Production Manager and Plant Head tracks should prioritize it next.",
+        metric: "Gap: 1.4",
+        relatedCompetency: "Leadership"
+    },
+
+    {
+        id: "insight-5",
+        type: "positive",
+        title: "Quality is on pace to hit its Q3 target",
+        detail: "At the current completion rate, Quality department readiness reaches the 85% target three weeks ahead of schedule.",
+        metric: "3 weeks ahead",
+        relatedCompetency: "Quality"
+    },
+
+    {
+        id: "insight-6",
+        type: "watch",
+        title: "Logistics has the lowest course starts",
+        detail: "Logistics employees start 40% fewer courses per month than the org average. Consider a targeted nudge campaign or manager-led onboarding session.",
+        metric: "-40% starts",
+        relatedCompetency: "Logistics"
+    },
+
+    {
+        id: "insight-7",
+        type: "watch",
+        title: "Engineering is 88% Education-only",
+        detail: "Engineering's growth is almost entirely course-based - just 12% comes from job rotations or GEMS/event exposure, the lowest mix in the plant. Purely theoretical learning correlates with their declining readiness score. Encourage 2-3 employees into the Industry 4.0 Lab rotation this quarter.",
+        metric: "12% Exp/Exposure",
+        relatedCompetency: "Engineering"
+    }
+
+];
+
+export default hrInsights;
